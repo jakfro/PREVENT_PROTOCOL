@@ -1,0 +1,10 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li class="toc-logo"><a href="./"><img src="LOGO.jpg"></a></li>
+      after: |
+        <li><a href="https://nauka.cm-uj.krakow.pl/niekomercyjne-badania-kliniczne/" target="blank">Sponsor: CMUJ</a></li>
+#    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+
